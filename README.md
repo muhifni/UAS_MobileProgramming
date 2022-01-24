@@ -4,9 +4,18 @@ Bandung Travel Apps adalah sebuah aplikasi yang berisi tentang rekomendasi tempa
 
 # Screenshoot
 
-<img src="https://ik.imagekit.io/ifu66naiyrt/UAS_MobileProgramming/flutter_01_DWI5EuIY047.png?ik-sdk-version=javascript-1.4.3&updatedAt=1643012827377" alt="home page" width="200"/>
+| Home Page                                                                                                                                                                            | Detail Page                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://ik.imagekit.io/ifu66naiyrt/UAS_MobileProgramming/flutter_01_DWI5EuIY047.png?ik-sdk-version=javascript-1.4.3&updatedAt=1643012827377" alt="home page" width="200"/> | <img src="https://ik.imagekit.io/ifu66naiyrt/UAS_MobileProgramming/flutter_02_X3o_BYLXv.png?ik-sdk-version=javascript-1.4.3&updatedAt=1643012827905" alt="detail page" width="200"/> |
 
-<img src="https://ik.imagekit.io/ifu66naiyrt/UAS_MobileProgramming/flutter_02_X3o_BYLXv.png?ik-sdk-version=javascript-1.4.3&updatedAt=1643012827905" alt="detail page" width="200"/>
+# Installation
+
+!! To be able to use this application, you must have Flutter pre-installed on your device !!
+
+```sh
+- git clone https://github.com/muhifni/UAS_MobileProgramming.git
+- flutter run
+```
 
 ## Tools yang Digunakan
 
